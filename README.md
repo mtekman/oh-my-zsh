@@ -1,3 +1,12 @@
+### This repo has migrated to GitLab
+https://gitlab.com/mtekman/oh-my-zsh
+###### (The copy here is archived. Please see the above link for the latest developments)
+
+********
+
+
+
+
 <p align="center">
   <img src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png" alt="Oh My Zsh">
 </p>
